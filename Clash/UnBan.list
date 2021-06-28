@@ -34,3 +34,8 @@ DOMAIN,tracking.miui.com
 # General
 DOMAIN,app.adjust.com
 DOMAIN,bdtj.tagtic.cn
+
+# Microsoft
+DOMAIN,microsoft.com
+DOMAIN,xboxlive.com
+DOMAIN,msgamestudios.com
