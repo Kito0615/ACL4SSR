@@ -209,6 +209,7 @@ DOMAIN-SUFFIX,sourcegraph.com
 DOMAIN-SUFFIX,spring.io
 DOMAIN-SUFFIX,spring.net
 DOMAIN-SUFFIX,stackoverflow.com
+DOMAIN,azureedge.net
 
 # Discord
 DOMAIN-SUFFIX,discord.co
